@@ -1,4 +1,4 @@
-# loomhand
+<picture><source media="(prefers-color-scheme: dark)" srcset="loomhand-logo-horizontal.svg"><img src="loomhand-logo-mono-navy.svg" alt="loomhand" width="440"></picture>
 
 Computers for AI agents. Each user gets a persistent cloud computer — a Linux desktop in a microVM — with a resident agent that any model can drive, plus a native macOS client to watch it, talk to it, and take over. Local coding agents such as Claude Code, Codex, and Cursor can use the box through MCP.
 
