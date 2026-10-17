@@ -9,6 +9,7 @@ Computers for AI agents. Each user gets a persistent cloud computer — a Linux 
 | Repository | Description | Docs |
 |---|---|---|
 | [cocoonbox](https://github.com/loomhand/cocoonbox) | The prototype — in-box agent (Rust), control plane and edge `cocoonbox-api` (Go), macOS app `CocoonBox.app` and the `cocoonbox` CLI (Swift), guest image provisioning, gRPC contracts | [docs](https://loomhand.github.io/cocoonbox/) |
+| [shuttle](https://github.com/loomhand/shuttle) | Local computer-use host — agents drive your own desktop over MCP stdio, with your own model keys | [docs](https://loomhand.github.io/shuttle/) |
 | [cua](https://github.com/loomhand/cua) | Fork of [trycua/cua](https://github.com/trycua/cua) carrying Linux X11 fixes to `cua-driver`, the screen executor in the box; fixes are sent upstream | — |
 | [swift-rfb](https://github.com/loomhand/swift-rfb) | Event-driven RFB/VNC client for Apple platforms with a Metal renderer | [docs](https://loomhand.github.io/swift-rfb/) |
 
